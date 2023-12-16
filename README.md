@@ -1,8 +1,8 @@
 # СУПчик
 ## Dependency
-python3.10+
-pip
-poetry
+python3.10+  
+pip  
+poetry  
 
 ## Install
 ```
